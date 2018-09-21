@@ -1,0 +1,29 @@
+_repo: Vanderdecken_54473
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stacpoole, H. De Vere (Henry De Vere)
+    alias: Stacpoole, Henry De Vere
+    birthdate: 1863
+    deathdate: 1951
+    gutenberg_agent_id: '219'
+    url: http://www.gutenberg.org/2009/agents/219
+    wikipedia: http://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole
+description: ''
+gutenberg_issued: '2017-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Sea stories'
+- GITenberg
+title: Vanderdecken
+url: http://www.gutenberg.org/ebooks/54473
